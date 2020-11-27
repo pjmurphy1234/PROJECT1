@@ -36,3 +36,18 @@ nav{
     background-color: lightgray;
     text-align: justify;
         }
+p{
+    text-align: left;
+    font-size: 130%;
+    padding: 20px;
+    color: darkblue;
+    background-color: darkgray;
+    
+}
+button{
+    background-color: blue;
+    color:white;
+    height:44px;
+    width: 90px;
+ 
+}
