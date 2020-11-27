@@ -17,4 +17,16 @@ h2{
     font-weight:bold;
     padding:10px;
     color: white
-}
+    }
+h3{
+        text-align: center;
+        background-color: lightgrey;
+        padding: 20px;
+ }
+
+section{
+
+    text-align: center;
+    background-color: lightgrey;
+    padding: 20px
+    }
